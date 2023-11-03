@@ -3,14 +3,14 @@
 ## Prerequisite
 https://www.youtube.com/watch?v=ZJJHm_bd9Zo&feature=youtu.be	
 
-Github:
-https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01 
-Tool require to run :
-1.Nodejs
-2.Docker
-3.Vscode
+Github
+    - https://gist.github.com/piyushgarg-dev/32cadf6420c452b66a9a6d977ade0b01 
+        Tool require to run 
+        1.Nodejs
+        2.Docker
+        3.Vscode
 for reference code
-https://www.sohamkamani.com/nodejs/working-with-kafka/
+    - https://www.sohamkamani.com/nodejs/working-with-kafka/
 
 Note : Run below command in gitbash 
 
